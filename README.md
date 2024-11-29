@@ -17,9 +17,9 @@ In the project directory, you can run:
 
 ## Technologies used
 
- -React
- -CSS
- -Weather Open APi
+-React
+-CSS
+-Weather Open APi
 ### `npm start`
 
 Runs the app in the development mode.\
